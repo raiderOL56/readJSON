@@ -1,0 +1,10 @@
+C:\Users\erick\source\repos\JsonRead\JsonRead\bin\Debug\JsonRead.exe.config
+C:\Users\erick\source\repos\JsonRead\JsonRead\bin\Debug\JsonRead.exe
+C:\Users\erick\source\repos\JsonRead\JsonRead\bin\Debug\JsonRead.pdb
+C:\Users\erick\source\repos\JsonRead\JsonRead\obj\Debug\JsonRead.csprojAssemblyReference.cache
+C:\Users\erick\source\repos\JsonRead\JsonRead\obj\Debug\JsonRead.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\JsonRead\JsonRead\obj\Debug\JsonRead.exe
+C:\Users\erick\source\repos\JsonRead\JsonRead\obj\Debug\JsonRead.pdb
+C:\Users\erick\source\repos\JsonRead\JsonRead\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erick\source\repos\JsonRead\JsonRead\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erick\source\repos\JsonRead\JsonRead\obj\Debug\JsonRead.csproj.CopyComplete
